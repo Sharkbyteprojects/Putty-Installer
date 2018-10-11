@@ -1,4 +1,5 @@
 # Geben sie folgendes ein: chmod +x apache.sh
+#Gehört nicht zu Putty Installer!
 clear
 echo Eventuell müssen sie das ROOT Kennwort eingeben. Geben sie dies ein wenn sie aufgefordert werden. Bei Fragen wegen Festplattenspeicher müssen sie J eingeben
 sudo apt-get install apache2
